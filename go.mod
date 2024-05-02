@@ -1,4 +1,4 @@
-module github.com/Dre4m6904/assignment4.git
+module github.com/Dre4m6904/assignment4
 
 go 1.21.6
 
